@@ -19,7 +19,6 @@ Documenting StatCan AAW platform
 | Command line tools | rbac-tool | cli tool to examine kubernetes rbac |
 | Command line tools | rbac-lookup | https://www.freshbrewed.science/k8s-and-krew-rbac-utilities/index.html |
 | Web tools | json-to-go | https://mholt.github.io/json-to-go/ |
-
 | Build tools                  | Makefile          | compose build logic into a single Makefile to avoid manually typing many repetitive tasks.                                                                                                                                                                                                                                                    |
 | Build tools                  | Taskfile          | similar to makefile but with Yaml                                                                                                                                                                                                                                                                                                             |
 | K8s Configuration management | helm              | group kubernetes configurations into a single interface (`values.yaml` file)                                                                                                                                                                                                                                                                  |
